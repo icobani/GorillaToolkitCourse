@@ -1,0 +1,23 @@
+{
+  "name": "gorilla_toolkit",
+  "version": "1.0.0",
+  "description": "Demo project for Gorilla Toolkit course for Pluralsight",
+  "main": "main.go",
+  "scripts": {},
+  "keywords": [
+    "golang",
+    "pluralsight",
+    "gorilla"
+  ],
+  "author": "Michael Van Sickle",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-shell": "^0.4.2"
+  }
+}
