@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="896f9762-daab-4e33-85b2-7b8e869e3752" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/MethodMatchers.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/PathMatchers.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/PathPrefixMatchers.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/QueryMathcers.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/SchemeMatchers.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/Subrouter.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaReverse/BasicMatchers.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaReverse/CompositeMatchers.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaReverse/Reversing Regular Expression.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaReverse/Route Templete.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_Context/GettingAndSettingData.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_RPC/client/client.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_RPC/server/server.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_Schema/Basic_Form_Decoding.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_Securecookie/Basic_Cookie.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_Sessions/Creating_Session.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_WebSocket/Basic_WebSocket.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go" afterPath="$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.go" afterPath="$PROJECT_DIR$/src/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,35 +29,19 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-              <folding>
-                <element signature="e#216#290#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-75">
+              <caret line="15" column="64" lean-forward="false" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Creating_Session.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gorilla_Sessions/Creating_Session.go">
+      <file leaf-file-name="Basic_WebSocket.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Gorilla_WebSocket/Basic_WebSocket.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="71" />
-              <folding>
-                <element signature="e#228#353#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="File_Base_Session.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-              <folding>
-                <element signature="e#228#353#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="125">
+              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,8 +110,9 @@
         <option value="$PROJECT_DIR$/src/Gorilla_RPC/client/client.go" />
         <option value="$PROJECT_DIR$/src/Gorilla_RPC/server/server.go" />
         <option value="$PROJECT_DIR$/src/Gorilla_Sessions/Creating_Session.go" />
-        <option value="$PROJECT_DIR$/src/main.go" />
         <option value="$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go" />
+        <option value="$PROJECT_DIR$/src/main.go" />
+        <option value="$PROJECT_DIR$/src/Gorilla_WebSocket/Basic_WebSocket.go" />
       </list>
     </option>
   </component>
@@ -217,25 +185,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Gorilla_Sessions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GorillaToolkitCource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GorillaToolkitCource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gorilla_Securecookie" />
+              <option name="myItemId" value="Gorilla_WebSocket" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -261,6 +211,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="prop_add_unversioned_files" value="true" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -372,18 +323,26 @@
       <workItem from="1483380273934" duration="18157000" />
       <workItem from="1483646789424" duration="16713000" />
       <workItem from="1483805324005" duration="1461000" />
-      <workItem from="1483867686699" duration="5345000" />
+      <workItem from="1483867686699" duration="8780000" />
     </task>
+    <task id="LOCAL-00001" summary="Session and Cookie">
+      <created>1483874379436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1483874379436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41676000" />
+    <option name="totallyTimeSpent" value="45111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="49" width="1280" height="623" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24702145" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24702145" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -427,12 +386,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Session and Cookie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session and Cookie" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go</url>
-          <line>23</line>
+          <line>24</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -442,7 +405,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lang/tr-tr.dyn.yaml" />
     <entry file="file://$PROJECT_DIR$/src/lang/en-us.static.json" />
     <entry file="file://$PROJECT_DIR$/src/lang/en-us.static.yaml" />
     <entry file="file://$PROJECT_DIR$/src/lang/tr-tr.dyn.json" />
@@ -531,6 +493,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="e#226#284#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -539,6 +504,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -577,6 +543,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="e#232#296#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -584,6 +553,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="54" />
+          <folding>
+            <element signature="e#216#285#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -591,15 +563,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
           <folding>
-            <element signature="e#216#290#0" expanded="true" />
+            <element signature="e#216#302#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -624,11 +589,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        <state relative-caret-position="150">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding>
-            <element signature="e#228#353#0" expanded="true" />
+            <element signature="e#263#388#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="15" column="64" lean-forward="false" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gorilla_WebSocket/Basic_WebSocket.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>

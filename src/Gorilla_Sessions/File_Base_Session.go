@@ -8,6 +8,7 @@
 * Date      : 07/01/2017    
 * Time      : 17:58
 * Developer : ibrahimcobani
+* Flash Mesaj örneği de var burda.
 *
 *******/
 package Gorilla_Sessions
@@ -24,7 +25,7 @@ import (
 var filestore = sessions.NewFilesystemStore("src/tmp", securecookie.GenerateRandomKey(64))
 
 func File_Base_Session() {
-	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+	http.HandleFunc("/Home", func(w http.ResponseWriter, r *http.Request) {
 		session, _ := filestore.Get(r, "session-name")
 		session.Values["faworite-Icecream"] = []string{"vanilla", "butter pecan"}
 
@@ -60,16 +61,17 @@ func File_Base_Session() {
 				m := msg.(string)
 				w.Write([]byte(m + " .... <br>"))
 			}
+			w.Write([]byte("<hr>"))
 		}
 
-		w.Write([]byte("<hr><br>"))
+		w.Write([]byte("<br>"))
 
 		for _, flavor := range favorites {
 			w.Write([]byte(flavor + "<br>"))
 		}
 
 		w.Write([]byte("Notting to see"))
-		w.Write([]byte("<br><a href='/'>Go Back</a>"))
+		w.Write([]byte("<br><a href='/Home'>Go Back</a>"))
 	})
 	fmt.Println("http://localhost::3000 File Bese Session Store server is started.....")
 
