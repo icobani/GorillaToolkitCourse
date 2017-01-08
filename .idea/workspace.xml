@@ -2,89 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="896f9762-daab-4e33-85b2-7b8e869e3752" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-bg_diagonals-thick_75_f3d8d8_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-bg_dots-small_65_a6a6a6_2x2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-bg_flat_0_333333_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-bg_flat_65_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-bg_glass_55_fbf8ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-bg_highlight-hard_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-bg_highlight-hard_100_f6f6f6_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-bg_highlight-soft_15_cc0000_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-icons_004276_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-icons_cc0000_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/products/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/products/piston_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/products/piston_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__GorillaToolkitCource_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Go_SDK.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GenerateCert.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/_admin-create-emp.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/_admin-menu.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/_checkout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/_header.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/_login.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/_parts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/app.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/jquery-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/css/jquery.ui.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/js/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/js/search_results.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/ctrl/admin.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/ctrl/checkout.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/ctrl/controllers.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/ctrl/login.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/ctrl/parts.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/model/db.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/model/employee.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/model/engine.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/model/make.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/model/model.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/model/part.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/model/year.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bw/vm/vm.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/ctrl/admin.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/ctrl/checkout.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/ctrl/controllers.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/ctrl/login.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/ctrl/parts.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/model/db.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/model/employee.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/model/engine.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/model/make.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/model/model.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/model/part.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/model/year.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pistons/vm/vm.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/_head.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/_header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/_result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/_search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin_create_emp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin_employee.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin_login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin_menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/checkout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/engine.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/make.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/model.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/part.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/search_results.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/year.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/MethodMatchers.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/PathMatchers.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/PathPrefixMatchers.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/QueryMathcers.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/SchemeMatchers.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaMux/Subrouter.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaReverse/BasicMatchers.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaReverse/CompositeMatchers.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaReverse/Reversing Regular Expression.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GorillaReverse/Route Templete.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_Context/GettingAndSettingData.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_RPC/client/client.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_RPC/server/server.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_Schema/Basic_Form_Decoding.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_Securecookie/Basic_Cookie.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_Sessions/Creating_Session.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.go" afterPath="$PROJECT_DIR$/src/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -104,26 +42,38 @@
     <favorites_list name="GorillaToolkitCource" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
               <folding>
-                <element signature="e#14#69#0" expanded="true" />
+                <element signature="e#216#290#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenerateCert.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GenerateCert.go">
+      <file leaf-file-name="Creating_Session.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gorilla_Sessions/Creating_Session.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="31" column="61" lean-forward="false" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+            <state relative-caret-position="35">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="71" />
               <folding>
-                <element signature="e#329#485#0" expanded="true" />
+                <element signature="e#228#353#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="File_Base_Session.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+              <folding>
+                <element signature="e#228#353#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,6 +92,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>req *http.Request</find>
+      <find>store</find>
+      <find>filestore</find>
     </findStrings>
     <replaceStrings>
       <replace>r *http.Request</replace>
@@ -165,7 +117,34 @@
         <option value="$PROJECT_DIR$/src/pistons/ctrl/parts.go" />
         <option value="$PROJECT_DIR$/src/pistons/vm/vm.go" />
         <option value="$PROJECT_DIR$/GenerateCert.go" />
+        <option value="$PROJECT_DIR$/src/ParameterisedRooting.go" />
+        <option value="$PROJECT_DIR$/src/ParameterisedRooting/SchemeMatchers.go" />
+        <option value="$PROJECT_DIR$/src/ParameterisedRooting/PathPrefixMatchers.go" />
+        <option value="$PROJECT_DIR$/src/ParameterisedRooting/PathMatchers.go" />
+        <option value="$PROJECT_DIR$/src/ParameterisedRooting/MethodMatchers.go" />
+        <option value="$PROJECT_DIR$/src/ParameterisedRooting/QueryMathcers.go" />
+        <option value="$PROJECT_DIR$/src/ParameterisedRooting/Subrouter.go" />
+        <option value="$PROJECT_DIR$/src/GorillaMux/Subrouter.go" />
+        <option value="$PROJECT_DIR$/src/GorillaMux/SchemeMatchers.go" />
+        <option value="$PROJECT_DIR$/src/GorillaMux/QueryMathcers.go" />
+        <option value="$PROJECT_DIR$/src/GorillaMux/PathPrefixMatchers.go" />
+        <option value="$PROJECT_DIR$/src/GorillaMux/PathMatchers.go" />
+        <option value="$PROJECT_DIR$/src/GorillaMux/MethodMatchers.go" />
+        <option value="$PROJECT_DIR$/src/GorillaReverse/BasicMatchers.go" />
+        <option value="$PROJECT_DIR$/src/GorillaReverse/CompositeMatchers.go" />
+        <option value="$PROJECT_DIR$/src/GorillaReverse/Reversing Regular Expression.go" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/GorillaReverse/Route Templete.go" />
+        <option value="$PROJECT_DIR$/src/Gorilla Context/Hey.go" />
+        <option value="$PROJECT_DIR$/src/Gorilla Context/GettingAndSettingData.go" />
+        <option value="$PROJECT_DIR$/src/Gorilla_Context/GettingAndSettingData.go" />
+        <option value="$PROJECT_DIR$/src/Gorilla_Schema/Basic_Form_Decoding.go" />
+        <option value="$PROJECT_DIR$/src/Gorilla_Securecookie/Basic_Cookie.go" />
+        <option value="$PROJECT_DIR$/src/Gorilla_RPC/client/client.go" />
+        <option value="$PROJECT_DIR$/src/Gorilla_RPC/server/server.go" />
+        <option value="$PROJECT_DIR$/src/Gorilla_Sessions/Creating_Session.go" />
         <option value="$PROJECT_DIR$/src/main.go" />
+        <option value="$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go" />
       </list>
     </option>
   </component>
@@ -175,13 +154,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="49" />
     <option name="width" value="1280" />
     <option name="height" value="623" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -198,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,8 +203,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GorillaToolkitCource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GorillaToolkitCource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gorilla_Sessions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GorillaToolkitCource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GorillaToolkitCource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gorilla_Securecookie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -248,7 +263,15 @@
     <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/ParameterisedRooting" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Gorilla_Sessions" />
+      <recent name="$PROJECT_DIR$/src/GorillaReverse" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -304,10 +327,16 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -330,6 +359,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="896f9762-daab-4e33-85b2-7b8e869e3752" name="Default" comment="" />
@@ -337,35 +369,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483380272420</updated>
-      <workItem from="1483380273934" duration="9871000" />
+      <workItem from="1483380273934" duration="18157000" />
+      <workItem from="1483646789424" duration="16713000" />
+      <workItem from="1483805324005" duration="1461000" />
+      <workItem from="1483867686699" duration="5345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9871000" />
+    <option name="totallyTimeSpent" value="41676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="49" width="1280" height="623" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24702145" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Serial Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Serial Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24670433" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37288135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956687" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Serial Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37288135" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24861" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -375,301 +429,205 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/build-go-apps-gorilla-toolkit/1-build-go-apps-gorilla-toolkit-m1-exercise-files/less/_header.less">
+    <entry file="file://$PROJECT_DIR$/src/lang/tr-tr.dyn.yaml" />
+    <entry file="file://$PROJECT_DIR$/src/lang/en-us.static.json" />
+    <entry file="file://$PROJECT_DIR$/src/lang/en-us.static.yaml" />
+    <entry file="file://$PROJECT_DIR$/src/lang/tr-tr.dyn.json" />
+    <entry file="file://$PROJECT_DIR$/src/lang/tr-tr.static.json" />
+    <entry file="file://$PROJECT_DIR$/src/views/login.tpl" />
+    <entry file="file://$PROJECT_DIR$/src/mail/templates/footer.tpl" />
+    <entry file="file://$PROJECT_DIR$/src/mail/Makefile" />
+    <entry file="file://$PROJECT_DIR$/src/mail/templates/contact.tpl" />
+    <entry file="file://$PROJECT_DIR$/src/mail/templates/header.tpl" />
+    <entry file="file://$PROJECT_DIR$/src/mail/templates/resetPassword.tpl" />
+    <entry file="file://$PROJECT_DIR$/src/mail/_mail" />
+    <entry file="file://$PROJECT_DIR$/src/mail/mail.go" />
+    <entry file="file://$PROJECT_DIR$/src/mail/helpers.go" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/rsa/app.rsa" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/conf/conf.go" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/conf/db.go" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/conf/rabbit.go" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/helpers/geo/cities1000.txt" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/helpers/geo/city.txt" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/helpers/geo/country_iso.txt" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/helpers/geo/geo.go" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/mail/mail.go" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/middleware/auth.go" />
+    <entry file="file://$PROJECT_DIR$/../../ilgooz/redis/redis.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="534" column="22" lean-forward="false" selection-start-line="534" selection-start-column="22" selection-end-line="534" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/app/model/token.go" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/perms/perms.go" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/routes/approvals.go" />
+    <entry file="file://$PROJECT_DIR$/src/api/app/routes/users.go" />
+    <entry file="file://$PROJECT_DIR$/src/routes.go" />
+    <entry file="file://$PROJECT_DIR$/src/GorillaMux/Subrouter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GorillaMux/SchemeMatchers.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/GorillaMux/QueryMathcers.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/src/GorillaMux/PathPrefixMatchers.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="72" lean-forward="true" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
-          <folding />
+        <state relative-caret-position="27">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/ctrl/admin.go">
+    <entry file="file://$PROJECT_DIR$/src/GorillaMux/MethodMatchers.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/ctrl/checkout.go">
+    <entry file="file://$PROJECT_DIR$/src/GorillaReverse/BasicMatchers.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#53#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/ctrl/controllers.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#14#53#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/ctrl/login.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/ctrl/parts.go">
+    <entry file="file://$PROJECT_DIR$/src/GorillaReverse/CompositeMatchers.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-          <folding />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/model/db.go">
+    <entry file="file://$PROJECT_DIR$/src/GorillaReverse/Reversing Regular Expression.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#71#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/model/employee.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#76#0" expanded="false" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/model/engine.go">
+    <entry file="file://$PROJECT_DIR$/src/Gorilla Context/Hey.go" />
+    <entry file="file://$PROJECT_DIR$/src/GorillaMux/PathMatchers.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#32#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/model/make.go">
+    <entry file="file://$PROJECT_DIR$/src/GorillaReverse/Route Templete.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#32#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/model/model.go">
+    <entry file="file://$PROJECT_DIR$/src/Gorilla_Context/GettingAndSettingData.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#32#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="215">
+          <caret line="57" column="12" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/model/part.go">
+    <entry file="file://$PROJECT_DIR$/src/Gorilla_Schema/Basic_Form_Decoding.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#32#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="350">
+          <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/model/year.go">
+    <entry file="file://$PROJECT_DIR$/src/Gorilla_Securecookie/Basic_Cookie.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="125">
+          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bw/vm/vm.go">
+    <entry file="file://$PROJECT_DIR$/src/Gorilla_RPC/client/client.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding>
-            <element signature="e#12#73#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="113">
+          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/ctrl/admin.go">
+    <entry file="file://$PROJECT_DIR$/src/Gorilla_RPC/server/server.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/ctrl/checkout.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#53#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/ctrl/login.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/ctrl/parts.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/model/db.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#71#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/model/employee.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#15#76#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/model/engine.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#15#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/model/make.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#15#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/model/model.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#15#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/model/part.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#15#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/model/year.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/vm/vm.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pistons/ctrl/controllers.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-          <folding>
-            <element signature="e#14#53#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cert.pem">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GenerateCert.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="31" column="61" lean-forward="false" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
-          <folding>
-            <element signature="e#329#485#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="128">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
           <folding>
-            <element signature="e#14#69#0" expanded="true" />
+            <element signature="e#216#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/session_NFKSD3REIGURJHIT6HBLN5OP463STTRTHPRLRKUDNZBKR7R4C7NQ">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gorilla_Sessions/Creating_Session.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="71" />
+          <folding>
+            <element signature="e#228#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gorilla_Sessions/File_Base_Session.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <element signature="e#228#353#0" expanded="true" />
           </folding>
         </state>
       </provider>

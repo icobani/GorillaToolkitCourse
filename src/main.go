@@ -1,38 +1,37 @@
+/******
+* B1 Yönetim Sistemleri Yazılım ve Danışmanlık Limited Şirketi
+* B1 Digitial
+* http://www.b1.com.tr
+*
+*
+*
+* Date      : 05/01/2017    
+* Time      : 18:59
+* Developer : ibrahimcobani
+*
+*******/
 package main
 
 import (
-	"github.com/gorilla/mux"
-	"fmt"
-	"net/http"
+	"github.com/icobani/GorillaToolkitCource/src/Gorilla_Sessions"
 )
 
 func main() {
-	r := mux.NewRouter()
+	//GorillaMux.SchemeMatchers()
+	//GorillaMux.PathPrefixMatchers()
+	//GorillaMux.PathMatchers()
+	//GorillaMux.MethodMatchers()
+	//GorillaMux.QueryMatchers()
 
-	func1 := func(w http.ResponseWriter, r *http.Request) {
-		w.Write([]byte("func 1"))
-	}
-
-	func2 := func(w http.ResponseWriter, r *http.Request) {
-		w.Write([]byte("func 2"))
-	}
-
-	handler := func(w http.ResponseWriter, r *http.Request) {
-		if r.TLS == nil {
-			func1(w, r)
-		} else {
-			func2(w, r)
-		}
-	}
-
-	r.HandleFunc("/", handler)
-
-	http.Handle("/", r)
-
-	go http.ListenAndServe(":4000", nil)
-	go http.ListenAndServeTLS(":4443", "cert.pem", "key.pem", nil)
-
-	fmt.Println("http://localhost:4000 ")
-	fmt.Println("Server is running now")
-	fmt.Scanln()
+	//GorillaMux.Subrouter()
+	//GorillaReverse.BasicMatchers()
+	//GorillaReverse.CompositeMatchers()
+	//GorillaReverse.ReversingRegularExpression()
+	//GorillaReverse.RouteTemplate()
+	//Gorilla_Context.GettingAndSettingData()
+	//Gorilla_Schema.Basic_Form_Decoding()
+	//Gorilla_Securecookie.Basic_Cookie()
+	//Gorilla_RPC_server.RPC_Server()
+	//Gorilla_Sessions.Creating_Session()
+	Gorilla_Sessions.File_Base_Session()
 }
